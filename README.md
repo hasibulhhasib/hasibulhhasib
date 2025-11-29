@@ -180,7 +180,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=hasibulhhasib&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 
-## 🧠 GitHub Overview
+## 📊 GitHub Overview
 <img 
   src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=hasibulhhasib&layout=compact&card_width=1000&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" 
   alt="Hasibul Hasib's Top Languages" 
