@@ -33,7 +33,6 @@
 </p>
 
 
-
 <h1 align="center">Hello, I'm Hasibul Hasib</h1> 
 <h3 align="center">Website Designer & Full-Stack Web Developer</h3>  
 
@@ -177,25 +176,6 @@
 - 🛠️ Bug Fixing & Website Maintenance  
 
 
-
-## ⚡ GitHub Statistics
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=hasibulhhasib&show_icons=true&theme=tokyonight" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasibulhhasib&layout=compact&theme=tokyonight" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-
-
 ## 🚀 Top Contributions
 <img src="https://github-profile-trophy.vercel.app/?username=hasibulhhasib&theme=tokyonight&no-frame=true&row=1&column=6" />
 
@@ -207,12 +187,7 @@
   width="100%">
 
 
-
-
-
-
 ## ☕ Connect with me!
 [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/facebook.png?raw=true' alt='facebook' height='40'>](https://www.facebook.com/#)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/instagram.png?raw=true' alt='instagram' height='40'>](https://www.instagram.com/#)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/twitter.png?raw=true' alt='twitter' height='40'>](https://twitter.com/#)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/youtube.png?raw=true' alt='YouTube' height='40'>](https://www.youtube.com/#)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/linkedin.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/in/#) 
-
 
 
