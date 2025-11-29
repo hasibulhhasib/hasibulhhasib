@@ -1,3 +1,14 @@
+
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=E0E0E0&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!)
+
+</div>
+
+![](https://github.com/hasibulhhasib/hasibulhhasib/blob/main/hasib.png?raw=true)
+
+
+
 # 👋 Hi, I'm **Hasibul Hasib**
 
 ### 🚀 Website Designer & Full-Stack Web Developer  
