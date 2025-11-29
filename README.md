@@ -39,8 +39,7 @@
 
 <p align="center" WordPress Designer (Elementor) | Shopify Expert | SEO Specialist | Website Speed Optimization Professional</p>
 
-I create high-quality, responsive, and conversion-focused websites that help businesses grow.
-From WordPress & Shopify to speed optimization and SEO — I ensure your website performs at its best.
+<p align="center" I create high-quality, responsive, and conversion-focused websites that help businesses grow. From WordPress & Shopify to speed optimization and SEO — I ensure your website performs at its best.</p>
 
 
 ---
