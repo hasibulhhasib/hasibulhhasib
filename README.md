@@ -44,7 +44,7 @@
   </p>
 
 
-## ⚙️ My favorite tools and technologies
+## ⚙️ My Favorite Tools and Technologies
 <table>
   <tr>
     <td align="center" width="96">
