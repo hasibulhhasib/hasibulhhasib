@@ -9,25 +9,25 @@
 
 
 <p align="center">
-  <a href="https://www.facebook.com/cmsherohasibhasan" target="_blank">
+  <a href="https://www.facebook.com/#" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://x.com/cmsherohasib" target="_blank">
+  <a href="https://x.com/#" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://www.instagram.com/cmsherohasibhasan/" target="_blank">
+  <a href="https://www.instagram.com/#" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://medium.com/@cmsherohasib" target="_blank">
+  <a href="https://medium.com/#" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
-  <a href="https://www.behance.net/cmsherohasib" target="_blank">
+  <a href="https://www.behance.net/#" target="_blank">
     <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
   </a>
-  <a href="https://www.linkedin.com/in/cmsherohasib/" target="_blank">
+  <a href="https://www.linkedin.com/in/#" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.pinterest.com/cmsherohasib/" target="_blank">
+  <a href="https://www.pinterest.com/#" target="_blank">
     <img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" />
   </a>
 </p>
