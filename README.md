@@ -166,14 +166,17 @@
 </table>
 
 
-##  👨‍💻 Skills & Expertise
-- 🖥️ Website Design & Development  
-- 🎨 WordPress (Elementor, WooCommerce)  
-- 🛒 Shopify Store Design & Customization  
-- ⚡ Speed Optimization (Core Web Vitals)  
-- 🔍 SEO & Technical SEO  
-- 🧰 HTML, CSS, JavaScript  
-- 🛠️ Bug Fixing & Website Maintenance  
+## 👨‍💻 Skills & Expertise
+- 🖥️ **Website Design & Development**
+- 🧩 **Professional GitHub Profile Setup**
+- 📁 **Project Uploading & File Management**
+- 📝 **Custom & Attractive GitHub README Design**
+- 🎨 **WordPress (Elementor, WooCommerce)**
+- 🛒 **Shopify Store Design & Customization**
+- ⚡ **Website Speed Optimization (Core Web Vitals)**
+- 🔍 **SEO & Technical SEO**
+- 🧰 **HTML, CSS, JavaScript**
+- 🛠️ **Bug Fixing & Website Maintenance**
 
 
 ## 🚀 Top Contributions
