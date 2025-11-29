@@ -218,8 +218,16 @@
 </table>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hasibulhhasib&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
+
+
+
+## My Skills
+
+<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=cheesits456&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="cheesits456's Top Languages" align="right" width="295">
+
+![cheesits456's GitHub Stats][github-stats-img]
 
 
 ## ☕ Connect with me!
