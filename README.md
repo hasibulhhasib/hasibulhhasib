@@ -200,9 +200,39 @@
 <img src="https://github-profile-trophy.vercel.app/?username=hasibulhhasib&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 
-## 📊 GitHub Overview
+## 🧠 My Skills
 
-<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=cheesits456&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="cheesits456's Top Languages" align="right" width="295">
+### 📊 Hasibul Hasib’s GitHub Stats
+<table>
+  <tr>
+    <td width="55%">
+      
+**⭐ Total Stars Earned:** 255  
+**🕒 Total Commits:** 5.5k  
+**🔀 Total PRs:** 19  
+**❗ Total Issues:** 56  
+**📦 Contributed to:** 3  
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=hasibulhhasib&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
+
+    </td>
+    <td width="45%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasibulhhasib&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
+
+</td>
+  </tr>
+</table>
+
+---
+
+## 🎨 Most Used Languages
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=hasibulhhasib&theme=tokyonight&hide_border=true" width="100%" />
+
+
 
 
 
