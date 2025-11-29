@@ -42,6 +42,8 @@
 <p align="center" I create high-quality, responsive, and conversion-focused websites that help businesses grow. From WordPress & Shopify to speed optimization and SEO — I ensure your website performs at its best.</p>
 
 
+
+
 ---
 
 <h3 align="left">Languages and Tools:</h3>
