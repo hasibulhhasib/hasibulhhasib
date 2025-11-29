@@ -37,7 +37,7 @@
 <h1 align="center">Hello, I'm Hasibul Hasib</h1> 
 <h3 align="center">Website Designer & Full-Stack Web Developer</h3>  
 
-WordPress Designer (Elementor) | Shopify Expert | SEO Specialist | Website Speed Optimization Professional
+<p align="center" WordPress Designer (Elementor) | Shopify Expert | SEO Specialist | Website Speed Optimization Professional</p>
 
 I create high-quality, responsive, and conversion-focused websites that help businesses grow.
 From WordPress & Shopify to speed optimization and SEO — I ensure your website performs at its best.
