@@ -40,6 +40,24 @@ From WordPress & Shopify to speed optimization and SEO — I ensure your website
 ## 🏆 Top Contributions
 <img src="https://github-profile-trophy.vercel.app/?username=hasibulhhasib&theme=tokyonight&no-frame=true&row=1&column=6" />
 
+
+## 📊 GitHub Overview
+
+<table>
+  <tr>
+    <td>
+      <h3>❄ Most Used Languages On GitHub</h3>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasibulhhasib&layout=compact&theme=tokyonight" />
+      </a>
+    </td>
+    <td>
+      <h3>⭐ My GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=hasibulhhasib&show_icons=true&count_private=true&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 🤝 Let's Connect
